@@ -9,3 +9,4 @@ able to find online (the maximum sharp-ratio portfolio) and some that I tediousl
 Credit goes to https://cvxopt.org/examples/tutorial/qp.html 
 
 ---
+THiS
