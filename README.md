@@ -1,9 +1,11 @@
-# Markowitz (Mean-Variance) Model
+# Modern Portfolio Theory
 
 --- 
 
-This is a project I worked on for the course MATH441 (Mathematical Modelling and discrete optimization problems) at the University of British Columbia. I used a similar but simpler model for the capstone course. Over the course of the summer I added some new features to the model, some that I was
-able to find online (the maximum sharp-ratio portfolio) and some that I tediously had to figure out myself (allowing for short-positions and individual weight restrictions for assets). 
+This started off as a project I worked on for the course MATH441 (Mathematical Modelling and discrete optimization problems) at the University of British Columbia. In the project I compared the performance of the classic Mean-Variance Model to the more robust Mean-Absolute-Deviation Model.
+
+Over the course of this summer (2018) I added some new features to the model, some that I was
+able to find online (the maximum sharp-ratio portfolio) and some that I tediously had to figure out myself (allowing for short-positions, individual weight restrictions for assets and target return specification). I use this repository 
 
 Credit goes to https://cvxopt.org/examples/tutorial/qp.html 
 
